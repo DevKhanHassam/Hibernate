@@ -1,10 +1,10 @@
-#Fri Jun 21 09:30:33 CEST 2024
+#Fri Jun 21 10:40:55 CEST 2024
 a=installed
-c=1
+c=2
 cl=HIBERNATE
 cmp=usage
 ct=jbt
-d=1718955033672
+d=1718959255093
 l=Installed plugins\: HIBERNATE
 s=0
 v=2.3.100
